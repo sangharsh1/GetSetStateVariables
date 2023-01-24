@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GetSetStateVariables.sol": "BuyMeACoffee"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GetSetStateVariables.sol": {
+			"keccak256": "0x12c14cac9e943ec84f028f7ca087c005ab5d309e039affefda6cecbb70230f0e",
+			"license": "Unlicense",
+			"urls": [
+				"bzz-raw://77d859c63782b86039e70dae8cb0ccc26f9a08957e4b9ff6fa5389d512b8f008",
+				"dweb:/ipfs/QmRE58Mk9vV2hVgAJeZM4hks4i3TdZMp7cMVxtZWDqPLTD"
+			]
+		}
+	},
+	"version": 1
+}
